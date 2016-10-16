@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">MyNewsFeedApp</string>
+    <string name="no_news">No news found</string>
+    <string name="no_internet_connection">No internet connection</string>
+
+    <!-- Strings For Minimum Magnitude Preference [CHAR LIMIT=30] -->
+    <string name="settings_min_magnitude_label">Minimum Magnitude</string>
+    <string name="settings_min_magnitude_key" translatable="false">min_magnitude</string>
+    <string name="settings_min_magnitude_default" translatable="false">6</string>
+
+    <!-- Settings Menu Item [CHAR LIMIT=NONE] -->
+    <string name="settings_menu_item">Settings</string>
+
+    <!-- Settings Activity Title [CHAR LIMIT=NONE] -->
+    <string name="settings_title">Earthquake Settings</string>
+
+    <!-- Strings For Order-By Preference [CHAR LIMIT=30] -->
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_default" translatable="false">
+        @string/settings_order_by_magnitude_value
+    </string>
+
+    <!-- Label for order-by magnitude option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_magnitude_label">Magnitude</string>
+    <string name="settings_order_by_magnitude_value" translatable="false">magnitude</string>
+
+    <!-- Label for order-by most recent option [CHAR LIMIT=20] -->
+    <string name="settings_order_by_most_recent_label">Most Recent</string>
+    <string name="settings_order_by_most_recent_value" translatable="false">time</string>
+
+    <string name="hello_blank_fragment">Hello blank frgament</string>
+    <string name="latest">latest</string>
+    <string name="q">q</string>
+    <string name="section">section</string>
+    <string name="show_fields">show-fields</string>
+    <string name="order_by">order-by</string>
+    <string name="api_key">api-key</string>
+    <string name="headline">headline</string>
+    <string name="relevance">relevance</string>
+    <string name="api_key_value">f9236af7-5b4e-4b5d-ae6f-5ce2549be26e</string>
+    <string name="show_tags">show-tags</string>
+    <string name="contributor">contributor</string>
+</resources>

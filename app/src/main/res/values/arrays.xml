@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="settings_order_by_labels">
+        <item>"Sports"</item>
+        <item>"Politics"</item>
+        <item>"Technology"</item>
+        <item>"Global"</item>
+    </string-array>
+
+    <string-array name="settings_order_by_values">
+        <item>"sport"</item>
+        <item>"politics"</item>
+        <item>"technology"</item>
+        <item>"global"</item>
+    </string-array>
+</resources>
